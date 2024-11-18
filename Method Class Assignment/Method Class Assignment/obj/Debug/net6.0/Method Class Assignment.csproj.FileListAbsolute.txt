@@ -1,0 +1,15 @@
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/Method Class Assignment.csproj.AssemblyReference.cache
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/Method Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/Method Class Assignment.AssemblyInfoInputs.cache
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/Method Class Assignment.AssemblyInfo.cs
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/Method Class Assignment.csproj.CoreCompileInputs.cache
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/bin/Debug/net6.0/Method Class Assignment
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/bin/Debug/net6.0/Method Class Assignment.deps.json
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/bin/Debug/net6.0/Method Class Assignment.runtimeconfig.json
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/bin/Debug/net6.0/Method Class Assignment.dll
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/bin/Debug/net6.0/Method Class Assignment.pdb
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/Method Class Assignment.dll
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/refint/Method Class Assignment.dll
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/Method Class Assignment.pdb
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/Method Class Assignment.genruntimeconfig.cache
+/Users/josiahlal/Desktop/Method Class Assignment/Method Class Assignment/obj/Debug/net6.0/ref/Method Class Assignment.dll
