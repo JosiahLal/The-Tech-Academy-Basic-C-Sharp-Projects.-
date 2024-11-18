@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6elMlb/XQF2ys/1VsI22a7l4vQ9+MmW987biqQ4406x3bkSTg4k7aoM0QzNdNtyHWoCeJB1tSfis1TXAqTSe0g==",
+  "success": true,
+  "projectFilePath": "/Users/josiahlal/Desktop/Polymorphism Assignment/Polymorphism Assignment/Polymorphism Assignment.csproj",
+  "expectedPackageFiles": [
+    "/Users/josiahlal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/josiahlal/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/josiahlal/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
