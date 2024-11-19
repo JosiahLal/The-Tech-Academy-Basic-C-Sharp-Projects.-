@@ -15,3 +15,6 @@ This assignment explores the concept of Polymorphism and how we use it in creati
 
 # Operators Assignment
 The project demonstrates operator overloading by customizing the == and != operators in the Employee class to compare two Employee objects based on their Id property. This allows for checking equality between employee objects in a meaningful way, based on their unique identifiers. It was challenging but also very thought-provoking to complete.
+
+# Blackjack Game Assignment
+This project included a long process of watching tutorials about creating a blackjack console-based application and answering two questions about the code. This was a very long and stressful process but I am glad I completed it in the end.
