@@ -18,3 +18,6 @@ The project demonstrates operator overloading by customizing the == and != opera
 
 # Blackjack Game Assignment
 This project included a long process of watching tutorials about creating a blackjack console-based application and answering two questions about the code. This was a very long and stressful process but I am glad I completed it in the end.
+
+# Final Assignment
+The Student Database project was very challenging. The Student Database project creates a simple console application that uses Entity Framework to manage student data. It defines a Student class with properties like StudentId, Name, and Age, and stores the student information in a SQL database, adding a new student and retrieving their details.
