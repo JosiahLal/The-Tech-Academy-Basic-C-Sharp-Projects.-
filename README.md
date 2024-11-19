@@ -12,3 +12,6 @@ This assignment was my introduction to the C# and .NET Framework - Part 2 course
 
 # Polymorphism Assignment
 This assignment explores the concept of Polymorphism and how we use it in creating console-based applications. The project explores using a  Quit() method, implementing this method in an Employee class, and using polymorphism to call Quit() on an object of type IQuittable. This project was hard to complete.
+
+# Operators Assignment
+The project demonstrates operator overloading by customizing the == and != operators in the Employee class to compare two Employee objects based on their Id property. This allows for checking equality between employee objects in a meaningful way, based on their unique identifiers. It was challenging but also very thought-provoking to complete.
