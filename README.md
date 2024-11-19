@@ -23,3 +23,4 @@ This project included a long process of watching tutorials about creating a blac
 The Student Database project was very challenging. The Student Database project creates a simple console application that uses Entity Framework to manage student data. It defines a Student class with properties like StudentId, Name, and Age, and stores the student information in a SQL database, adding a new student and retrieving their details.
 
 # Final Essay
+This final essay was a very good reflection on my overall mindset of this course and everything I learned about it. It was a good time to complete it.
