@@ -9,3 +9,6 @@ This was my first task in the C# and .NET Framework - Part 1 course called the B
 
 # Method Class Assignment
 This assignment was my introduction to the C# and .NET Framework - Part 2 course. this project was about creating a console-based application that made math operations. this project was very insightful and I had a blast problem solving my way to completion.
+
+# Polymorphism Assignment
+This assignment explores the concept of Polymorphism and how we use it in creating console-based applications. The project explores using a  Quit() method, implementing this method in an Employee class, and using polymorphism to call Quit() on an object of type IQuittable. This project was hard to complete.
